@@ -1,14 +1,6 @@
 <h3 align="center"><em> sosoYim,</em> </br>Junior Front-end Developper</h3>
 
 
-<h3 align="center"><b> Follow me ! </b></h3>
-<p align="center">
-<a href="https://velog.io/@sosoyim" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> &nbsp
-</p>
-
-
-
-
 
 <!--
 
