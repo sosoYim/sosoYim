@@ -1,4 +1,4 @@
-<h3 align="center"><em> sosoYim,</em> </br>Junior Front-end Developper</h3>
+<h3 align="center">Have a nice day :D</h3>
 
 
 
